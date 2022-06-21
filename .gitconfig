@@ -1,0 +1,7 @@
+[user]
+	name = Hannah Manfredi
+	email = hannah.manfredi@udacity.com
+[merge]
+	conflictstyle = diff3
+[core]
+	editor = code --wait
